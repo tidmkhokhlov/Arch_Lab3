@@ -53,7 +53,7 @@ int main() {
         }
     }
 
-    cout << "Program complete." << endl;
+    cout << "\033[32mProgram complete.\033[0m" << endl;
 
     return 0;
 }
