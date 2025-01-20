@@ -1,5 +1,8 @@
 # Arch_Lab3
 
+### About
+A simple C++ program that takes text from a file and changes the upper case line by line in multiple streams. After that, it outputs the text to the console.
+
 ### Building
 ```shell
 #building
