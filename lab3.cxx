@@ -32,7 +32,7 @@ int main() {
         }
         inputFile.close();
     } else {
-        cout << "Failed to open the file" << endl;
+        cout << "\033[31mFailed to open the file\033[0m" << endl;
         return 0;
     }
 
